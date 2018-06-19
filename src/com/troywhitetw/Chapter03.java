@@ -19,7 +19,7 @@ public class Chapter03 {
         int x = 3;
         int max = 1;
         int min = 1;
-        ArrayList<Integer> resultArray = new ArrayList<Integer>();
+        ArrayList<Integer> resultArray = new ArrayList<>();
 
         for (int i = 1; i <= x; i++) {
             max *= 10;
